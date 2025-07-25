@@ -9,6 +9,7 @@ This sends a custom Win32 message `0x8004` to the `RED_BUTTON_Window` class
 - **Windows** (Win32 API)  
 - **SDL2**  
 - **SDL2_image**
+- **vc_redist.x86** https://aka.ms/vs/16/release/vc_redist.x86.exe
 
 ---
 
