@@ -19,16 +19,6 @@ This sends a custom Win32 message `0x8004` to the `RED_BUTTON_Window` class
 3. Configure include/lib paths as above.  
 4. Place the `Contents/` folder next to the compiled executable.
 
-
-Contents/
-├─ RedButton/
-│ ├ Button Not Pressed.png
-│ └ Button Pressed.png
-└─ SFX/
-└ Click.wav
-
-
-
 ---
 
 ## Credits
