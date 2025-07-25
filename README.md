@@ -12,7 +12,7 @@ This sends a custom Win32 message `0x8004` to the `RED_BUTTON_Window` class
 
 ---
 
-## Build & Run
+## Building
 
 1. Open the project in your IDE.  
 2. Add `main.cpp` to the source.  
