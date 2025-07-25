@@ -16,7 +16,7 @@ This sends a custom Win32 message `0x8004` to the `RED_BUTTON_Window` class
 
 1. Open the project in your IDE.  
 2. Add `main.cpp` to the source.  
-3. Configure include/lib paths as above.  
+3. Configure include/lib with SDL2 & SDL2_Image.  
 4. Place the `Contents/` folder next to the compiled executable.
 
 ---
