@@ -1,4 +1,4 @@
-# Red Button Emulator
+# RedButton Emu
 
 This sends a custom Win32 message `0x8004` to the `RED_BUTTON_Window` class
 
